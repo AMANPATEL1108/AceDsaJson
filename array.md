@@ -15,9 +15,6 @@
 
 An array in Java is a container object that holds a fixed number of values of a single type. Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 
-![Array Visualization](placeholder-array-visualization.jpg)
-*Figure 1: Visual representation of an array*
-
 Key characteristics of arrays in Java:
 - Fixed in size (the size cannot be modified after creation)
 - Can hold primitive data types or objects
@@ -63,9 +60,6 @@ int[] numbers = {1, 2, 3, 4, 5};  // Creates and initializes an array
 String[] fruits = new String[]{"Apple", "Banana", "Orange"};
 ```
 
-![Array Initialization](placeholder-array-initialization.jpg)
-*Figure 2: Different ways of initializing arrays*
-
 ## Accessing and Modifying Array Elements
 
 Array elements are accessed using their index. Remember, array indices start at 0.
@@ -102,9 +96,6 @@ int[][] matrix = {
 
 System.out.println(matrix[1][2]);  // Outputs: 6
 ```
-
-![2D Array Visualization](placeholder-2d-array.jpg)
-*Figure 3: Visual representation of a 2D array*
 
 ## Arrays Class and Utility Methods
 

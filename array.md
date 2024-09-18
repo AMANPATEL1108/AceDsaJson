@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <h1>Array</h1>
+    <h1>aman</h1>
     <p>Arrays are fundamental data structures in Java used to store multiple values of the same type in a single variable. They offer a convenient way to manage collections of data. For example, if you need to store the ages of several people, instead of creating individual variables for each age, you can use an array to hold all ages in a single data structure.</p>
 
     <h2>Declaring Arrays</h2>

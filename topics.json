@@ -96,7 +96,7 @@
               + "<p>In Java, <code>ArrayList</code> from the <code>java.util</code> package provides a dynamic array that can grow and shrink as needed. This is useful when the size of the array isn't known in advance.</p>"
               + "<p>Example:</p>"
               + "<pre><code>import java.util.ArrayList;</code></pre>"
-              + "<pre><code>ArrayList<String> cars = new ArrayList<String>();</code></pre>"
+              + "<pre><code>ArrayList<String> cars = new ArrayList<>();</code></pre>"
               + "<pre><code>cars.add(\"Volvo\");</code></pre>"
               + "<pre><code>cars.add(\"BMW\");</code></pre>"
               + "<pre><code>cars.add(\"Ford\");</code></pre>"

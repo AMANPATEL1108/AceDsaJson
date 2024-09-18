@@ -1,0 +1,17 @@
+[
+  {
+    "_id": "1",
+    "name": "Array",
+    "content": "<p>Arrays are a collection of items stored at contiguous memory locations...</p>"
+  },
+  {
+    "_id": "2",
+    "name": "LinkedList",
+    "content": "<p>Linked List is a linear data structure...</p>"
+  },
+  {
+    "_id": "3",
+    "name": "Tree",
+    "content": "<p>A tree is a non-linear data structure...</p>"
+  }
+]

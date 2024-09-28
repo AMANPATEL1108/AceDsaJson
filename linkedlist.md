@@ -1,9 +1,6 @@
 # linked-list
 
 
-
-Small double [linked list][wiki].
-
 ## Contents
 
 *   [What is this?](#what-is-this)

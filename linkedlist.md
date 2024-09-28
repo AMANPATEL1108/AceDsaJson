@@ -1,9 +1,6 @@
 # linked-list
 
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Size][size-badge]][size]
+
 
 Small double [linked list][wiki].
 

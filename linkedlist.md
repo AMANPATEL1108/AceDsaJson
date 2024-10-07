@@ -15,9 +15,7 @@ Here's an edited version of your linked list README file with expanded explanati
     *   [`Item()`](#item)
 *   [Types](#types)
 *   [Compatibility](#compatibility)
-*   [Security](#security)
-*   [Contributing](#contributing)
-*   [License](#license)
+
 
 ## What is this?
 

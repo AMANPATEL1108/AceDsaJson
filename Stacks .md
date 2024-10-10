@@ -1,6 +1,3 @@
-Sure! I'll provide a GitHub Markdown format for each of the remaining data structure and algorithm topics. Let's start with **Stacks** and continue in a similar format for each remaining topic.
-
----
 
 ## Stacks in Java: A Comprehensive Guide
 

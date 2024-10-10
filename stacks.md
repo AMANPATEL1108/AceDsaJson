@@ -1,4 +1,3 @@
-
 ## Stacks in Java: A Comprehensive Guide
 
 ### Table of Contents

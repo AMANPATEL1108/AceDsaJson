@@ -1,6 +1,7 @@
 # Arrays in Java: A Comprehensive Guide
 
 ## Table of Contents
+
 1. [Introduction to Arrays](#introduction-to-arrays)
 2. [Declaring and Initializing Arrays](#declaring-and-initializing-arrays)
 3. [Accessing and Modifying Array Elements](#accessing-and-modifying-array-elements)
@@ -16,6 +17,7 @@
 An array in Java is a container object that holds a fixed number of values of a single type. Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.
 
 Key characteristics of arrays in Java:
+
 - Fixed in size (the size cannot be modified after creation)
 - Can hold primitive data types or objects
 - Zero-indexed (the first element is at index 0)
